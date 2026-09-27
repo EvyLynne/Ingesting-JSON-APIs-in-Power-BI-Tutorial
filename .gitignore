@@ -1,0 +1,12 @@
+# Office / Power BI lock and temp files
+~$*
+*.tmp
+*.bak
+
+# Power BI Project (PBIP) local-only files, if the project is later saved as .pbip
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Windows system files
+Thumbs.db
+desktop.ini
